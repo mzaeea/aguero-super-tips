@@ -1,2 +1,3 @@
-# aguero-super-tips
-AI-powered football tips tool
+# نصائح أغويرو الخارقة
+
+أداة نصائح كرة القدم المدعومة بالذكاء الاصطناعي.
